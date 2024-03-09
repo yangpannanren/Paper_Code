@@ -1,0 +1,822 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.7.31)  9 NOV 2014 22:48
+entering extended mode
+**skel.tex
+("C:\Users\Lewis\Desktop\ENGG4801 - THESIS\A4 Thesis\Thesis Tex Files\skel.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\spverbatim\spverbatim.sty"
+Package: spverbatim 2009/08/10 v1.0 Verbatim with breakable spaces
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+\c@defn=\count89
+\c@theorem=\count90
+\c@lemma=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+)
+("C:\Users\Lewis\Desktop\ENGG4801 - THESIS\A4 Thesis\Thesis Tex Files\skel.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 149.
+LaTeX Font Info:    ... okay on input line 149.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen103
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks14
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen104
+\MPnumerator=\count96
+\makeMPintoPDFobject=\count97
+\everyMPtoPDFconversion=\toks15
+) <UQlogoD_MONO_dos.png, id=1, 341.3553pt x 115.8729pt>
+File: UQlogoD_MONO_dos.png Graphic file (type png)
+
+<use UQlogoD_MONO_dos.png>
+Package pdftex.def Info: UQlogoD_MONO_dos.png used on input line 158.
+(pdftex.def)             Requested size: 341.35445pt x 115.8726pt.
+ [1
+
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Lewis/Desktop/EN
+GG4801 - THESIS/A4 Thesis/Thesis Tex Files/UQlogoD_MONO_dos.png>] [2
+
+] [3] [4
+
+] [5] [6
+
+] [7
+
+
+]
+("C:\Users\Lewis\Desktop\ENGG4801 - THESIS\A4 Thesis\Thesis Tex Files\skel.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+[8
+
+])
+\tf@toc=\write3
+ [9]
+("C:\Users\Lewis\Desktop\ENGG4801 - THESIS\A4 Thesis\Thesis Tex Files\skel.lof"
+)
+\tf@lof=\write4
+ [10
+
+] [11] [12
+
+]
+Chapter 1.
+[1
+
+
+] [2]
+Chapter 2.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ˜ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+[3
+
+
+] <KHTF.jpg, id=53, 124.5453pt x 185.0112pt>
+File: KHTF.jpg Graphic file (type jpg)
+ <use KHTF.jpg>
+Package pdftex.def Info: KHTF.jpg used on input line 334.
+(pdftex.def)             Requested size: 124.54498pt x 185.01074pt.
+ [4 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/KHTF.j
+pg>] [5] [6
+
+]
+Chapter 3.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 360.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 360.
+ [7
+
+] [8] [9] [10]
+[11]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 554.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 554.
+ [12] [13] [14] [15] [16] [17] [18]
+<RDMAP2.png, id=112, 476.78125pt x 245.91875pt>
+File: RDMAP2.png Graphic file (type png)
+ <use RDMAP2.png>
+Package pdftex.def Info: RDMAP2.png used on input line 839.
+(pdftex.def)             Requested size: 476.78008pt x 245.91814pt.
+
+Overfull \hbox (49.98874pt too wide) in paragraph at lines 839--840
+ [][] 
+ []
+
+[19] [20 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/R
+DMAP2.png>]
+Chapter 4.
+
+Overfull \hbox (7.64536pt too wide) in paragraph at lines 863--864
+\OT1/cmr/m/n/12 found be-low. The code list-ing for the sig-nal gen-er-a-tion c
+an be found in ap-pendix A.1.1[]. 
+ []
+
+[21
+
+
+] [22]
+Overfull \hbox (14.61807pt too wide) in paragraph at lines 945--946
+\OT1/cmr/m/n/12 The full code for the im-ple-men-ta-tion of the GCCA al-go-rith
+m ap-pears in ap-pendix A.1.2[].
+ []
+
+[23]
+Overfull \hbox (25.47578pt too wide) in paragraph at lines 970--971
+[]\OT1/cmr/m/n/12 Let there be five re-ceivers lo-cated at $(\OML/cmm/m/it/12 x
+; y\OT1/cmr/m/n/12 ) = \OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 (0\OML/cmm/m/it/12 ; \
+OT1/cmr/m/n/12 0)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (0\OML/cmm/m/it/12 ; \OT1/c
+mr/m/n/12 50)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (0\OML/cmm/m/it/12 ; \OMS/cmsy/
+m/n/12  \OT1/cmr/m/n/12 50)\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12
+  \OT1/cmr/m/n/12 50\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0)\OML/cmm/m/it/12 ; \OT
+1/cmr/m/n/12 (50\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 0)\OMS/cmsy/m/n/12 g$\OT1/cm
+r/m/n/12 ,
+ []
+
+<ppi1.jpg, id=132, 523.9575pt x 466.74374pt>
+File: ppi1.jpg Graphic file (type jpg)
+ <use ppi1.jpg>
+Package pdftex.def Info: ppi1.jpg used on input line 973.
+(pdftex.def)             Requested size: 523.95622pt x 466.7426pt.
+
+<ppiip.png, id=133, 522.45187pt x 460.72125pt>
+File: ppiip.png Graphic file (type png)
+ <use ppiip.png>
+Package pdftex.def Info: ppiip.png used on input line 986.
+(pdftex.def)             Requested size: 522.45059pt x 460.72012pt.
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [24] [25]
+[26] [27 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/p
+pi1.jpg>] [28 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Fi
+les/ppiip.png>] [29
+
+] [30
+
+]
+Chapter 5.
+[31
+
+] [32] [33] [34] [35] [36] [37] [38] [39]
+<detect.png, id=186, 421.575pt x 316.18124pt>
+File: detect.png Graphic file (type png)
+ <use detect.png>
+Package pdftex.def Info: detect.png used on input line 1377.
+(pdftex.def)             Requested size: 421.57396pt x 316.18047pt.
+
+<ell1.png, id=187, 412.54124pt x 275.0275pt>
+File: ell1.png Graphic file (type png)
+ <use ell1.png>
+Package pdftex.def Info: ell1.png used on input line 1384.
+(pdftex.def)             Requested size: 412.54024pt x 275.02682pt.
+ [40] [41 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/
+detect.png (PNG copy)> <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thes
+is Tex Files/ell1.png>] [42
+
+]
+Chapter 6.
+<rdbig2.png, id=198, 291.0875pt x 556.0775pt>
+File: rdbig2.png Graphic file (type png)
+ <use rdbig2.png>
+Package pdftex.def Info: rdbig2.png used on input line 1419.
+(pdftex.def)             Requested size: 291.08678pt x 556.07614pt.
+ [43
+
+] [44 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/rdbi
+g2.png>]
+<xyell6.png, id=207, 419.5675pt x 339.2675pt>
+File: xyell6.png Graphic file (type png)
+ <use xyell6.png>
+Package pdftex.def Info: xyell6.png used on input line 1430.
+(pdftex.def)             Requested size: 419.56647pt x 339.26666pt.
+
+<rdout.png, id=208, 194.97844pt x 26.34843pt>
+File: rdout.png Graphic file (type png)
+ <use rdout.png>
+Package pdftex.def Info: rdout.png used on input line 1446.
+(pdftex.def)             Requested size: 194.97795pt x 26.34836pt.
+ [45] [46]
+[47 <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/xyell6
+.png> <C:/Users/Lewis/Desktop/ENGG4801 - THESIS/A4 Thesis/Thesis Tex Files/rdou
+t.png>] [48
+
+]
+Chapter 7.
+[49
+
+] [50] [51]
+Appendix A.
+
+Overfull \hbox (30.15889pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 function[] [phi,[] direct][] =[] signal_gen(posRx,[] posTx,[
+] posTarg,[] freq,[] N,[] noise)[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %A[] function[] that[] generates[] random[] signal,[] then[]
+ distributes[] it[] as[] well[] as[] 
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %[] [] [] posRx[] -[] the[] position[] of[] each[] receiver[
+] so[] that[] posRx(1,i)[] and[] posRx(2,i)[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %[] [] [] posTx[] -[] the[] position[] of[] the[] transmitte
+r[] so[] that[] posTx[] =[] [xpos;[] ypos][] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %[] [] [] phi[] -[] An[] array[] of[] inputs[] from[] receiv
+ers[] in[] the[] form[] [X1,[] X2,...,Xm][] 
+ []
+
+[52
+
+]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %[] [] [] [] [] [] [] [] [] where[] Xi[] is[] a[] column[] a
+rray[] of[] values.[] Xi[] can[] be[] recovered[] by[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %DTxTarg[] =[] Array[] of[] distances[] where[] D(i)[] =[] d
+istance[] from[] transmitter[] to[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %DTargRx[] =[] Array[] of[] distances[] where[] D(i,j)[] =[]
+ distance[] from[] Rxi[] to[] target[]
+ []
+
+[53]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 1656--1656
+[]\OT1/cmtt/m/n/12 %Calculate[] maximum[] travel[] time[] of[] the[] signal[] a
+nd[] the[] equivelant[] number[]
+ []
+
+[54]
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] phi[] -[] An[] array[] of[] inputs[] from[] receiv
+ers[] in[] the[] form[] [X1,[] X2,...,Xm][] 
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] [] [] [] [] [] [] where[] Xi[] is[] a[] column[] a
+rray[] of[] values.[] Xi[] can[] be[] recovered[] by[] 
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] posRx[] -[] the[] position[] of[] each[] receiver[
+] so[] that[] posRx(1,i)[] and[] posRx(2,i)[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] posTx[] -[] the[] position[] of[] the[] transmitte
+r[] so[] that[] posTx[] =[] [xpos;[] ypos][] 
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] xb[] -[] the[] x-boundary.[] xb[] =[] [xmin,[] xma
+x].[] will[] iterate[] over[] this[] boundary[] 
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] yb[] -[] the[] y-boundary.[] yb[] =[] [ymin,[] yma
+x].[] will[] iterate[] over[] this[] boundary[] 
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 1765--1765
+[]\OT1/cmtt/m/n/12 %[] [] [] out[] -[] an[] array[] of[] dimensions[] [diff(yb)
+,[] diff(xb)][] with[] log[] likelihood[] 
+ []
+
+[55] [56]
+Overfull \hbox (30.15889pt too wide) in paragraph at lines 1765--1765
+[][] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 %Iterate[] through[] each[] receiver
+[] to[] get[] the[] time[] delay[] and[] calculate[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1765--1765
+[][] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 %the[] number[] of[] samples[] delay
+[] to[] put[] in[] nset[] -[] the[] set[] of[] sample[]
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 1765--1765
+[][] [] [] [] [] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 %Can[] ignore[] distance
+[] from[] Tx[] to[] ij[] as[] is[] constant[] for[] each[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1765--1765
+[][] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 %Longest[] delay[] will[] determine[
+] how[] many[] signals[] we[] store[] for[] each[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1765--1765
+[][] [] [] [] [] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 %So[] we[] can[] throw[]
+ away[] the[] first[] nset[] samples[] of[] each[] signal[]
+ []
+
+[57] [58]
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 %There[] will[] initially[] be[] 5[] receivers[] spaced[] 50
+m[] apart[] located[] at[] origin[] 
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 %There[] will[] be[] two[] stationary[] targets[] located[] 
+[[x;y][] [] [] [x;y][] [] [] [x;y][] ...][] 
+ []
+
+[59]
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 plot(posRx(1,:)-xb(1)+1,posRx(2,:)-yb(1)+1,'o','MarkerEdgeCo
+lor','k',...[] 
+ []
+
+
+Overfull \hbox (54.8589pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 set(gca,'YtickLabel',num2str(-tick*(str2num(get(gca,'YTickLa
+bel'))-1)+yb(2)));[] 
+ []
+
+
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 set(gca,'XtickLabel',num2str(tick*(str2num(get(gca,'XTickLab
+el'))-1)+yb(1)));[] 
+ []
+
+[60]
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1881--1881
+[]\OT1/cmtt/m/n/12 title('Plan[] Position[] Indicator[] for[] Generalised[] Can
+onical[] Correlation');[] 
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 function[] [phi,[] generated,[] sig_noise,[] rxdirect][] =[]
+ signal_gen(posRx,[] posTx,[]
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %A[] function[] that[] generates[] random[] signal,[] then[]
+ distributes[] it[] as[] well[] as[] 
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %[] [] [] posRx[] -[] the[] position[] of[] each[] receiver[
+] so[] that[] posRx(i,1)[] and[] posRx(i,2)[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %[] [] [] SNR[] -[] Optional[] -[] specify[] the[] SNR[] of[
+] the[] AWGN[] in[] dB.[] Default[] is[] 100dB[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %[] [] [] phi[] -[] An[] array[] of[] inputs[] from[] receiv
+ers[] in[] the[] form[] [X1,[] X2,...,Xm][] 
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %[] [] [] [] [] [] [] [] [] where[] Xi[] is[] a[] column[] a
+rray[] of[] values.[] Xi[] can[] be[] recovered[] by[] 
+ []
+
+[61]
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %DTxTarg[] =[] Array[] of[] distances[] where[] D(i,j)[] =[]
+ distance[] from[] Txi[] to[] target[]
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %DRxTarg[] =[] Array[] of[] distances[] where[] D(i,j)[] =[]
+ distance[] from[] Rxi[] to[] target[]
+ []
+
+[62]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2051--2051
+[]\OT1/cmtt/m/n/12 %Calculate[] maximum[] travel[] time[] of[] the[] signal[] a
+nd[] the[] equivelant[] number[]
+ []
+
+[63] [64]
+Overfull \hbox (61.0339pt too wide) in paragraph at lines 2051--2051
+[][] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 rxdirect(SAMP:end,rec)[] =[] rxdirec
+t(SAMP:end,rec)[] +[] AMP*S(1:Ngen-SAMP+1);[] 
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2124--2124
+[]\OT1/cmtt/m/n/12 %Generates[] the[] range[] doppler[] map[] for[] a[] given[]
+ receiver[] over[] a[] specified[] 
+ []
+
+
+Overfull \hbox (30.15889pt too wide) in paragraph at lines 2124--2124
+[]\OT1/cmtt/m/n/12 function[] [rdmap,[] ranges,[] freqs][] =[] rangedopplerfft(
+phi,[] freq,[] range,[] freqs,[]
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2124--2124
+[]\OT1/cmtt/m/n/12 %[] [] [] phi[] is[] an[] Nx1[] column[] vector[] of[] the[]
+ samples[] received[] at[] receiver[] of[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2124--2124
+[]\OT1/cmtt/m/n/12 %[] [] [] freqs[] is[] similar[] to[] ranges[] except[] for[
+] frequencies[] of[] interest.[] freqs[]
+ []
+
+[65]
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2124--2124
+[]\OT1/cmtt/m/n/12 Fdirect[] =[] conj(fft(rxdirect,N));[] %Fourier[] transform[
+] of[] direct[] path[] signal[] 
+ []
+
+[66] [67]
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 2203--2203
+[]\OT1/cmtt/m/n/12 function[] [rdHits,[] rdMapDetect][] =[] detectTarg(rdmap,[]
+ ranges,freqs,[] SNR,[] PSNR)[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2203--2203
+[]\OT1/cmtt/m/n/12 %Detects[] the[] locations[] of[] targets[] in[] the[] area[
+] from[] the[] range-doppler[] map[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2203--2203
+[]\OT1/cmtt/m/n/12 %P[] =[] [snrs,[] level][] where[] snrs[] is[] an[] mx1[] ma
+trix[] with[] possible[] SNR[] values[]
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2203--2203
+[]\OT1/cmtt/m/n/12 %rdMapDetect[] is[] the[] same[] size[] as[] rdmap[] that[] 
+is[] passed[] into[] the[] function[]
+ []
+
+[68] [69]
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 2249--2249
+[]\OT1/cmtt/m/n/12 q0[] =[] (xm^2*ca^2[] +[] 2*xm*ym*ca*sa[] +[] ym^2*sa^2)/A^2
+[] +[] (xm^2*sa^2[] -[] 2*xm*ym*ca*sa[]
+ []
+
+[70]
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2334--2334
+[]\OT1/cmtt/m/n/12 z4[] =[] (-[] qxx^2*ryy^2[] +[] qxx*qxy*rxy*ryy[] +[] 2*qxx*
+qyy*rxx*ryy[] -[] qxx*qyy*rxy^2[]
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2334--2334
+[]\OT1/cmtt/m/n/12 z3[] =[] (qx*qxx*rxy*ryy[] -[] 2*qy*qyy*rxx^2[] -[] qxy^2*rx
+x*ry[] -[] 2*qxx^2*ry*ryy[] -[]
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2334--2334
+[][] \OT1/cmtt/m/n/12 qxx*qxy*rxy*ry[] -[] 2*qxx*qyy*rx*rxy[] +[] qxy*qy*rxx*rx
+y[] +[] qxy*qyy*rx*rxx[] +[]
+ []
+
+[71]
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2415--2415
+[]\OT1/cmtt/m/n/12 %A[] function[] that[] determines[] the[] likely[] positions
+[] of[] targets[] from[] an[] array[] 
+ []
+
+[72]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2415--2415
+[]\OT1/cmtt/m/n/12 %rx[] is[] a[] struct[] array[] with[] feild[] ellParam[] de
+scribing[] the[] parameters[] of[] 
+ []
+
+
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 2415--2415
+[][] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 
+dist[] =[] currentPos[] -[] repmat(testPos,size(currentPos,1),1);[] 
+ []
+
+[73]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2415--2415
+[][] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] \OT1/
+cmtt/m/n/12 target(idMatch,1:2)[] =[] (n*target(idMatch,1:2)[] +[]
+ []
+
+
+Overfull \hbox (42.5089pt too wide) in paragraph at lines 2415--2415
+[][] [] [] [] \OT1/cmtt/m/n/12 disp(['Target[] at[] (x,y)[] =[] ('[] num2str(tl
+(1),4)[] ','[] num2str(tl(2),4)[] ')']);[] 
+ []
+
+
+Overfull \hbox (42.5089pt too wide) in paragraph at lines 2415--2415
+[][] [] [] [] \OT1/cmtt/m/n/12 disp(['Target[] at[] (x,y)[] =[] ('[] num2str(tl
+(1),4)[] ','[] num2str(tl(2),4)[] ')']);[] 
+ []
+
+
+Overfull \hbox (42.5089pt too wide) in paragraph at lines 2415--2415
+[][] [] [] [] \OT1/cmtt/m/n/12 disp(['Target[] at[] (x,y)[] =[] ('[] num2str(t2
+(1),4)[] ','[] num2str(t2(2),4)[] ')']);[] 
+ []
+
+[74]
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2525--2525
+[]\OT1/cmtt/m/n/12 rx[] =[] repmat(struct('loc',0,'rdmap',0,'rdHits',0,'ellPara
+m',[]),nx*ny,1);[] 
+ []
+
+[75]
+Overfull \hbox (54.8589pt too wide) in paragraph at lines 2525--2525
+[][] [] [] [] \OT1/cmtt/m/n/12 [phi,[] s,[] noise,[] rxdirect][] =[] signal_gen
+(posRx(i,:),posTx,Targ,freq,cfreq,N,[]
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2525--2525
+[][] [] [] [] \OT1/cmtt/m/n/12 [rdmap,[] ranges][] =[] rangedopplerfft(phi,freq
+,[] range,[] freqs,rxdirect);[] 
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2525--2525
+[][] [] [] [] [] [] [] [] \OT1/cmtt/m/n/12 title(['(x,y)[] =[] ('[] num2str(pos
+Rx(i,1))[] ','[] num2str(posRx(i,2))[]
+ []
+
+[76]
+Overfull \hbox (30.15889pt too wide) in paragraph at lines 2525--2525
+[]\OT1/cmtt/m/n/12 intersect[] =[] findEllIntersect(rx(ID1).ellParam(1,:),rx(ID
+2).ellParam(1,:));[] 
+ []
+
+[77]
+Appendix B.
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 2561--2561
+[]\OT1/cmtt/m/n/12 The[] endnote[] data[] contained[] in[] the[] proposal[] app
+ears[] in[] the[] folder[] 'Endnote'.[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2561--2561
+[]\OT1/cmtt/m/n/12 The[] files[] developed[] for[] this[] Thesis[] are[] contai
+ned[] in[] the[] folder[] 'MATLAB[]
+ []
+
+[78
+
+]
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 2561--2561
+[]\OT1/cmtt/m/n/12 Some[] of[] the[] research[] papers[] cited[] in[] the[] the
+sis[] are[] contained[] in[] the[] folder[]
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 Note:[] All[] folders[] in[] this[] directory[] with[] subfo
+lders[] have[] a[] script[] addp.m.[]
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2573--2573
+\OT1/cmtt/m/n/12 This[] script[] will[] add[] all[] of[] the[] current[] direct
+ory[] to[] the[] MATLAB[] path[] so[]
+ []
+
+
+Overfull \hbox (36.3339pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 'Paper[] 1[] -[] Optimisation'[] contains[] the[] tested[] a
+nd[] unsuccessful[] optimisations[]
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 'Paper[] 2'[] contains[] the[] incomplete[] works[] on[] Bay
+esian[] detection[] of[] signals[]
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 'Presentation'[] contains[] the[] files[] used[] for[] the[]
+ live[] demo[] midway[] through[]
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 'Range[] Doppler[] Transform'[] contains[] all[] of[] the[] 
+files[] for[] the[] Range[] Doppler[]
+ []
+
+
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 2573--2573
+[]\OT1/cmtt/m/n/12 'Tests[] and[] Exploration'[] contains[] some[] extra[] file
+s[] used[] for[] testing[] and[]
+ []
+
+[79] [80
+
+] [81
+
+]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no © in font cmr12!
+ [82]
+Underfull \hbox (badness 2073) in paragraph at lines 2634--2636
+[]\OT1/cmtt/m/n/12 65/Ellipse_Properties_of_Directrix_and_String_Construction.s
+vg\OT1/cmr/m/n/12 , 3
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2640
+[]\OT1/cmr/m/n/12 R.G. Ed-wards, \OT1/cmr/m/it/12 So-lu-tion co-or-di-nates for
+ a pair of bi-vari-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2639--2640
+\OT1/cmr/m/it/12 quadratic equa-tions\OT1/cmr/m/n/12 , The Map-toops Com-pany, 
+[on-line]. Avail-able:
+ []
+
+
+Overfull \hbox (32.87526pt too wide) in paragraph at lines 2639--2640
+[]\OT1/cmtt/m/n/12 http://www.maptools.home.comcast.net/~maptools/BivariateQuad
+ratics.pdf\OT1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2642
+[]\OT1/cmr/m/n/12 D. Eberly, \OT1/cmr/m/it/12 The Area of In-ter-sect-ing El-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2642
+\OT1/cmr/m/it/12 lipses\OT1/cmr/m/n/12 , Ge-o-met-ric Tools, LLC, [on-line]. Av
+ail-able:
+ []
+
+
+Overfull \hbox (45.22527pt too wide) in paragraph at lines 2641--2642
+[]\OT1/cmtt/m/n/12 http://www.geometrictools.com/Documentation/AreaIntersecting
+Ellipses.pdf\OT1/cmr/m/n/12 ,
+ []
+
+[83]
+("C:\Users\Lewis\Desktop\ENGG4801 - THESIS\A4 Thesis\Thesis Tex Files\skel.aux"
+) ) 
+Here is how much of TeX's memory you used:
+ 1426 strings out of 494045
+ 17923 string characters out of 3148387
+ 74471 words of memory out of 3000000
+ 4734 multiletter control sequences out of 15000+200000
+ 9720 words of font info for 34 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 23i,10n,20p,1163b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsl12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on skel.pdf (95 pages, 1020165 bytes).
+PDF statistics:
+ 399 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
